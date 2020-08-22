@@ -1,11 +1,12 @@
-# Werewolf Utopium
-
-## Developers
-[LuciferianThomas](https://glitch.com/@LuciferianThomas) (LuciferianThomas#0666)   
+# Werewold Utopium
+## Fork of [LuciferianThomas](https://glitch.com/@LuciferianThomas)'s project, Werewolf Utopium.
+### Not going to do anything with this anytime soon, just bored.
+## Developers of Werewolf Utopium (not Wereword Utopium)
+ (LuciferianThomas#0666)   
 [thewilloftheshadow](https://glitch.com/@thewilloftheshadow) (TheShadow#8124) ([ShadowDevelopment](https://github.com/thewilloftheshadow))
 
-## Helpers
+## Helpers of Werewolf Utopium (not Wereword Utopium)
 [SomethingMysterious](https://glitch.com/@SomethingMysterious) (SomethingMysterious#3933)
 
-## Retired
+## Retired of Werewolf Utopium (not Wereword Utopium)
 [3061LRTAGSPKJMORMRT](https://glitch.com/@3061LRTAGSPKJMORMRT) (Ashish#0380)  
